@@ -64,6 +64,9 @@ label {
 .what-i-want {
 	text-decoration: underline
 }
+.what-i-want a {
+  color: #ff2e6c;
+}
 .box-tip {
 	border: 1px solid #59667D
 }
